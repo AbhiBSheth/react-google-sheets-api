@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-google-sheets-api/static/css/main.ff02f4b5.css",
-    "main.js": "/react-google-sheets-api/static/js/main.26c99c50.js",
+    "main.css": "/react-google-sheets-api/static/css/main.6bfb6a4f.css",
+    "main.js": "/react-google-sheets-api/static/js/main.5bef43cc.js",
     "static/js/453.783f6864.chunk.js": "/react-google-sheets-api/static/js/453.783f6864.chunk.js",
     "index.html": "/react-google-sheets-api/index.html",
-    "main.ff02f4b5.css.map": "/react-google-sheets-api/static/css/main.ff02f4b5.css.map",
-    "main.26c99c50.js.map": "/react-google-sheets-api/static/js/main.26c99c50.js.map",
+    "main.6bfb6a4f.css.map": "/react-google-sheets-api/static/css/main.6bfb6a4f.css.map",
+    "main.5bef43cc.js.map": "/react-google-sheets-api/static/js/main.5bef43cc.js.map",
     "453.783f6864.chunk.js.map": "/react-google-sheets-api/static/js/453.783f6864.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff02f4b5.css",
-    "static/js/main.26c99c50.js"
+    "static/css/main.6bfb6a4f.css",
+    "static/js/main.5bef43cc.js"
   ]
 }
