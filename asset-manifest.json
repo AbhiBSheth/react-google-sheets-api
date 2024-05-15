@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-google-sheets-api/static/css/main.6bfb6a4f.css",
-    "main.js": "/react-google-sheets-api/static/js/main.5bef43cc.js",
+    "main.js": "/react-google-sheets-api/static/js/main.40dd321a.js",
     "static/js/453.783f6864.chunk.js": "/react-google-sheets-api/static/js/453.783f6864.chunk.js",
     "index.html": "/react-google-sheets-api/index.html",
     "main.6bfb6a4f.css.map": "/react-google-sheets-api/static/css/main.6bfb6a4f.css.map",
-    "main.5bef43cc.js.map": "/react-google-sheets-api/static/js/main.5bef43cc.js.map",
+    "main.40dd321a.js.map": "/react-google-sheets-api/static/js/main.40dd321a.js.map",
     "453.783f6864.chunk.js.map": "/react-google-sheets-api/static/js/453.783f6864.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bfb6a4f.css",
-    "static/js/main.5bef43cc.js"
+    "static/js/main.40dd321a.js"
   ]
 }
